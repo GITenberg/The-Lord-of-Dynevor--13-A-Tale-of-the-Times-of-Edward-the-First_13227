@@ -1,0 +1,41 @@
+_repo: The-Lord-of-Dynevor--13-A-Tale-of-the-Times-of-Edward-the-First_13227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Dare, Evelyn
+    - Ward, E.
+    - Everett-Green, E. (Evelyn)
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castles -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Wales -- History -- 1063-1536 -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Edward I, 1272-1307 -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+title: 'The Lord of Dynevor: A Tale of the Times of Edward the First'
+url: http://www.gutenberg.org/ebooks/13227
